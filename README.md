@@ -1,2 +1,5 @@
 # estou-bem
-Uma versão traduzida para PT-BR do I'm Fine de Charles Stover.
+
+Um site para representar visualmente pensamentos depressivos.
+
+Uma versão traduzida em PT-BR do I'm Fine de Charles Stover.
